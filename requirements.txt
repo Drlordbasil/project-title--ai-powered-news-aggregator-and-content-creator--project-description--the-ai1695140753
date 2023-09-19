@@ -1,0 +1,8 @@
+The package requirements for this Python program are:
+- requests
+- beautifulsoup4
+- nltk
+- spacy
+- transformers
+- regex
+- urllib3
